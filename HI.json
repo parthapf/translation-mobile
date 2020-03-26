@@ -45,6 +45,7 @@
     "passed": "सफलता",
     "failed": "असफल",
     "result_msg": "आपने %{q} में से %{a} सवालो के सही उत्तर दिए हैं",
+    "view_certificate": "प्रमाणपत्र देखें",
     "print_certificate": "प्रिंट प्रमाण पत्र",
     "retake_test": "पुनः टेस्ट ले",
     "certificate": "प्रमाण पत्र",

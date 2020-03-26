@@ -45,6 +45,7 @@
     "passed": "Passed",
     "failed": "Failed",
     "result_msg": "You have answered %{a} out of %{q} questions correctly",
+    "view_certificate": "View certificate",
     "print_certificate": "Print certificate",
     "retake_test": "Retake test",
     "certificate": "Certificate",

@@ -58,5 +58,10 @@
     "enter_current_password": "Enter current password",
     "enter_a_new_password": "Enter a new password",
     "confirm_your_password": "Confirm your password",
-    "change_password": "Change password"
+    "change_password": "Change password",
+
+    "logout": "Logout",
+    "no_results_found": "No results found",
+    "category": "Category"
+
 }

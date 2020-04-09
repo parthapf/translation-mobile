@@ -58,5 +58,9 @@
     "enter_current_password": "वर्तमान पासवर्ड डालें",
     "enter_a_new_password": "नया पासवर्ड भरे",
     "confirm_your_password": "अपने पासवर्ड की पुष्टि करें",
-    "change_password": "पासवर्ड बदलें"
+    "change_password": "पासवर्ड बदलें",
+
+    "logout": "लॉग आउट",
+    "no_results_found": "कोई परिणाम नहीं मिला",
+    "category": "वर्ग"
 }

@@ -58,5 +58,9 @@
     "enter_current_password": "ಪ್ರಸ್ತುತ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ನಮೂದಿಸಿ",
     "enter_a_new_password": "ಹೊಸ ಪಾಸ್ವರ್ಡ್ ನಮೂದಿಸಿ",
     "confirm_your_password": "ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ಖಚಿತಪಡಿಸಿ",
-    "change_password": "ಪಾಸ್ವರ್ಡ್ ಬದಲಿಸಿ"
+    "change_password": "ಪಾಸ್ವರ್ಡ್ ಬದಲಿಸಿ",
+
+    "logout": "ಲಾಗ್ ಔಟ್",
+    "no_results_found": "ಯಾವುದೇ ಫಲಿತಾಂಶಗಳು ಕಂಡುಬರಲಿಲ್ಲ",
+    "category": "ವರ್ಗ"
 }

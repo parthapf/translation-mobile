@@ -43,7 +43,7 @@
     "save_and_next": "सुरक्षित और अगला",
     "question": "सवाल",
     "answer": "उत्तर",
-    "perfect": "उत्तम",
+    "excellent": "उत्तम",
     "passed": "सफलता",
     "failed": "असफल",
     "result_msg": "आपने %{q} में से %{a} सवालो के सही उत्तर दिए हैं",
@@ -62,5 +62,7 @@
 
     "logout": "लॉग आउट",
     "no_results_found": "कोई परिणाम नहीं मिला",
-    "category": "वर्ग"
-}
+    "category": "वर्ग",
+    "showing": "दिखा रहा है",
+    "views": "बार देखा गया",
+    "rating": "रेटिंग"

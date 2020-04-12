@@ -25,7 +25,7 @@
     "confirm_your_password": "Confirm your password",
     "reset_password": "Reset password",
     "welcome": "Welcome",
-    "latest_videos": "Latest videos",
+    "latest_videos": "My videos",
     "all_videos": "All videos",
     "search_courses": "Search Courses",
     "take_test": "Take test",
@@ -62,10 +62,10 @@
 
     "logout": "Logout",
     "no_results_found": "No results found",
-    "category": "Category",
+    "category": "Categories",
     "showing": "Showing",
     "views": "Views",
     "rating": "Rating",
-
+    "no_videos_found": "No videos found"
 
 }

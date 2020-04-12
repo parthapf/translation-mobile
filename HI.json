@@ -25,7 +25,7 @@
     "confirm_your_password": "कन्फर्म पासवर्ड भरें",
     "reset_password": "पासवर्ड रीसेट",
     "welcome": "स्वागत हे",
-    "latest_videos": "नवीनतम वीडियो",
+    "latest_videos": "मेरे वीडियो",
     "all_videos": "सभी वीडियो",
     "search_courses": "कोर्स खोजें",
     "take_test": "परीक्षा लो",
@@ -65,4 +65,5 @@
     "category": "वर्ग",
     "showing": "दिखा रहा है",
     "views": "बार देखा गया",
-    "rating": "रेटिंग"
+    "rating": "रेटिंग",
+    "no_videos_found": "कोई वीडियो नहीं मिला"
